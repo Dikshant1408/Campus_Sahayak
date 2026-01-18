@@ -31,7 +31,163 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Note: this is# 🎓 Campus Sahayak - AI Student Assistant for Bharat
+
+**Hackathon:** AI for Bharat 2025  
+**Theme:** AI Solutions for Everyday Student Life in Bharat
+
+---
+
+## 🌟 Overview
+
+Campus Sahayak is an all-in-one AI-powered platform designed specifically for Indian college students. It combines multiple AI features to help students excel in academics, prepare for placements, manage mental wellness, and navigate campus life efficiently.
+
+---
+
+## ✨ Features
+
+### 1. 🤖 AI Study Assistant
+- 24/7 chatbot for instant doubt solving
+- Helps with assignments and exam preparation
+- Conversational AI powered by Claude
+- Multi-language support (English & Hindi coming soon)
+
+### 2. 📚 Smart Study Planner
+- AI-generated personalized 7-day study schedules
+- Tailored to Indian education system (CSE subjects)
+- Optimized for exam preparation
+- Time-blocked task management
+
+### 3. 💼 Career Preparation Tools
+- Resume ATS Score Checker
+- Detailed improvement suggestions
+- Identifies strengths and weaknesses
+- Helps students become placement-ready
+
+### 4. 🧠 Mental Wellness Tracker
+- Daily mood tracking
+- Visual mood history
+- Mental health tips and resources
+- Privacy-focused approach
+
+---
+
+## 🚀 Tech Stack
+
+- **Frontend:** React 18
+- **AI Engine:** Claude API (Anthropic)
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React
+- **Deployment:** Ready for Vercel/Netlify
+
+---
+
+## 📦 Installation & Setup
+
+### Prerequisites
+- Node.js 16+ installed
+- npm or yarn package manager
+
+### Steps
+
+1. **Clone the repository**
+```bash
+   git clone <your-repo-url>
+   cd campus-sahayak
+```
+
+2. **Install dependencies**
+```bash
+   npm install
+```
+
+3. **Start development server**
+```bash
+   npm start
+```
+
+4. **Open browser**
+   - Navigate to `http://localhost:3000`
+
+5. **Build for production**
+```bash
+   npm run build
+```
+
+---
+
+## 🎯 Hackathon Tracks Covered
+
+✅ **AI for Learning & Academics** - Study Assistant & Study Planner  
+✅ **AI for Career & Placements** - Resume ATS Checker  
+✅ **AI for Productivity & Time Management** - Smart Study Planner  
+✅ **AI for Mental Health & Wellness** - Mood Tracker  
+
+---
+
+## 🇮🇳 Built for Bharat
+
+- **Affordable:** Uses efficient AI models
+- **Accessible:** Works on low bandwidth
+- **Culturally Relevant:** Designed for Indian education system
+- **Privacy-First:** No unnecessary data collection
+
+---
+
+## 📸 Screenshots
+
+[Add screenshots of all 4 main features here]
+
+---
+
+## 🎥 Demo Video
+
+[Link to demo video - record 2-3 minute walkthrough]
+
+---
+
+## 🔮 Future Enhancements
+
+- Multi-language support (Hindi, Tamil, Telugu, Bengali)
+- Offline mode for low connectivity areas
+- Integration with popular LMS platforms
+- Mock interview AI with voice support
+- Campus navigation features
+- Study group finder
+
+---
+
+## 👥 Team
+
+- **Your Name** - Developer
+- **Team Members** - Roles
+
+---
+
+## 📄 License
+
+MIT License - Feel free to use and modify
+
+---
+
+## 🙏 Acknowledgments
+
+- Built for AI for Bharat 2025 Hackathon
+- Powered by Anthropic Claude AI
+- Icons by Lucide React
+- Inspired by real student challenges across India
+
+---
+
+## 📞 Contact
+
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn]
+- GitHub: [Your GitHub]
+
+---
+
+**Made with ❤️ for Indian students** a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
